@@ -1,0 +1,35 @@
+
+.array-container {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin: 20px;
+  }
+  
+  button {
+    margin-top: 20px;
+  }
+  .array-bar {
+    background-color: teal;
+    width: 20px;
+    margin: 0 3px;
+  }
+  
+  .array-bar.blue {
+    background-color: blue;
+  }
+  
+  .array-bar.purple {
+    background-color: purple;}
+  
+  .array-bar.red {
+    background-color: red;}
+  
+  .array-bar.orange {
+    background-color: orange; 
+  }
+  
+  .array-bar.green {
+    background-color: green;
+  }
+  

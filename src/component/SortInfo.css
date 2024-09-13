@@ -1,0 +1,75 @@
+.sort-info {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 20px;
+    text-align: left;
+    color: #333;
+    width: 100%;
+    max-width: 900px;
+    margin: auto;
+  }
+
+  sort-info.show {
+    display: block;
+  }
+  
+  .sort-info h1 {
+    color: #0060c6;
+    margin-top: 0;
+  }
+
+  .sort-info h2 {
+    color: #007bff;
+    margin-top: 0;
+  }
+  
+  .sort-info h3 {
+    color: #333;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .sort-info p {
+    color: #555;
+    line-height: 1.6;
+  }
+  
+  .sort-info ul, .sort-info ol {
+    margin: 0;
+    padding-left: 20px;
+  }
+  
+  .sort-info li {
+    margin-bottom: 10px;
+  }
+  
+  .sort-info code {
+    background-color: #f4f4f4;
+    padding: 2px 4px;
+    border-radius: 4px;
+    color: #d63384;
+  }
+  
+  .sort-info ol {
+    margin: 0;
+    padding-left: 20px;
+  }
+  
+  .sort-info ol li {
+    margin-bottom: 10px;
+  }
+  
+  .sort-info .example {
+    border: 1px solid #e0e0e0;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+  }
+  
+  .sort-info .example code {
+    background-color: transparent;
+    color: #007bff;
+  }
+  
