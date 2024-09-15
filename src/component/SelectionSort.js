@@ -44,5 +44,9 @@ export const selectionSort = async (array, setArray, sleep) => {
   
     
     document.getElementsByClassName('array-bar')[arr.length - 1].style.backgroundColor = 'green';
+
+    for (let i = 0; i < arr.length; i++) {
+      document.getElementsByClassName('array-bar')[i].style.backgroundColor = 'green';
+    }
   };
   
